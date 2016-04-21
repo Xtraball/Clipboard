@@ -1,0 +1,11 @@
+{
+  "name": "plugin-clipboard",
+  "version": "1.0",
+  "description": "Clipboard management.",
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
