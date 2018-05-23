@@ -1,7 +1,7 @@
 {
-  "name": "plugin-clipboard",
+  "name": "Clipboard",
   "version": "1.0",
-  "description": "Clipboard management.",
+  "description": "Cordova Clipboard",
   "cordova": {
     "platforms": [
       "android",
